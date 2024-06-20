@@ -1,0 +1,4 @@
+0.5673568143964853
+参数值： {'N_imperv': 1.04, 'N_perv': 0.738, 'S_imperv': 10.7, 'S_perv': 2.874, 'Maxrate': 65.591, 'Minrate': 13.431, 'Decay': 18.46, 'Drytime': 3.332, 'Roughness': 0.0156}
+0.3947881832960032
+参数值： {'N_imperv': 1.04, 'N_perv': 0.738, 'S_imperv': 10.7, 'S_perv': 2.874, 'Maxrate': 65.591, 'Minrate': 13.431, 'Decay': 18.46, 'Drytime': 3.332, 'Roughness': 0.0156}
